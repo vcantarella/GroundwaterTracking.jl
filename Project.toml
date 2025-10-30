@@ -1,0 +1,12 @@
+name = "GroundwaterTracking.jl"
+uuid = "4d0a1f14-5380-4355-a13a-1525427f7b0f"
+version = "0.1.0"
+authors = ["vcantarella <vcantarella@gmail.com>"]
+
+[deps]
+KernelAbstractions = "63c18a36-062a-441e-b654-da1e3ab1ce7c"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+
+[compat]
+KernelAbstractions = "0.9.38"
+LinearAlgebra = "1.12.0"
